@@ -1,3 +1,5 @@
-# Unitopoly
+# Monopoly-Sustc
+  
+  We implement online function and can play through LAN by inputint server ip address.
 
-![Current Progress](doc/board.png)
+
