@@ -4,5 +4,7 @@
   
   
 ## Begin Scene
-  ![Begin.PNG](https://github.com/NevrThrw/Monopoly-SUSTC/ScreenShoots/Begin.PNG)
+  ![Begin.PNG](
+        Monopoly-SUSTC/ScreenShoots/Begin.PNG
+      )
 
