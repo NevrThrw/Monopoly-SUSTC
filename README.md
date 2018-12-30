@@ -27,3 +27,5 @@ We implement AI to help or replace you playing game, you can just activate the f
    We add music to begin,main,end scenes.All the three pieces of music are from WOW.    
   ### Online Playing
    We implement the online playing function by the Unet component of Unity,which can realize the LAN connection.But the delay is a bit   large so you can notice obvious out-sync.    
+  ### System Information
+  We add a System Information System to display all the behaviors that all characters did,which helps you to make decision that leads to victory.
