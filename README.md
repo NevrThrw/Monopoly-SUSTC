@@ -4,8 +4,14 @@
   
   
   The .exe file is placed in Game filefolder.
+ 
+ ## Group Member
   
-  
+  * 阮沛钧 
+  * 伍凯铭 
+  * 丘伟 
+  * 资鸣麒  
+  * 谭浩
   
 ## Begin Scene
   The Screen Shoot of the beginning scene.  
